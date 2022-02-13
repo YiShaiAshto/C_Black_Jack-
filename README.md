@@ -1,2 +1,3 @@
 # C_Black_Jack-
-Black Jack terminal game using linked list data structs
+a terminal-based game of black jack between a human player and a computer
+controlled dealer.
