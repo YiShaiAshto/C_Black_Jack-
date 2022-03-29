@@ -23,7 +23,7 @@ Bets must be made in multiples of 10.
 Draw 2 cards into the dealer hand, and 2 cards into the player hand. 
 Drawing random cards: a random position in the deck list, remove the card in that position and insert it as the last position of the hand.
 
-4.Hit or Stand Phase
+4. Hit or Stand Phase
 a) input the user for either “hit” or “stand”. If the user chooses “stand” move to the next phase (dealer draw phase).
 b) If the user chooses “hit”, drawing a card into the player’s hand. Then, calculate the value of the player’s hand. If it’s above 21, the player loses the bet, prints “bust” and move to the “lose bet” phase. If the value is below 21, repeat phase 4.
 
